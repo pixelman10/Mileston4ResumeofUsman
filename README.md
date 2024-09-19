@@ -14,6 +14,6 @@ Editable Functionality Implementation (60 points):
 
 Is each section of the resume editable (i.e., can users click and modify content)?
 Are changes reflected without requiring a page refresh?
-TypeScript Code Quality and Logic (40 points):
 
+TypeScript Code Quality and Logic (40 points):
 Is the TypeScript code organized, efficient, and error-free?
